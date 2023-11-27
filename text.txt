@@ -1,3 +1,2 @@
-This file has some text in it.
-clear
-
+This is text file
+Extra line added to text.txt file
