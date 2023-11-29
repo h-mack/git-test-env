@@ -1,5 +1,1 @@
-This is text file
-Extra line added to text.txt file
-This file has some text in it.
-clear
-dd another line of text to text.txt
+text.txt file contents
