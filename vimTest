@@ -1,0 +1,25 @@
+a - enter INSERT mode -- append after cursor
+i - enter INSERT mode -- insert before cursor
+esc - exit INSERT mode and go back to NORMAL mode
+:h - open help context menu
+:sav file - save current file as <filename>
+:x, yd - delete lines x through y. e.g. :1, 5d = delete lines 1-5 inclusive
+:w - write (save) the file, but don't exit
+:q - quit (will fail if there are unsaved changes)
+:wq - save and exit
+:wqa - save and exit on all tabs
+
+NORMAL MODE
+gg - navigate to beginning of file
+G - navigate to end of file
+S - cut current line and enter insert mode on same line
+w - jump forwards to start of next word
+e - jump forwards to end of word
+b - jump backwards to start of word
+h - move left one character
+j - move down one line
+k - move up one line
+l - move right one character
+H - move to top of screen
+M - move to middle of screen
+L - move to bottom of screen
