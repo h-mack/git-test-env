@@ -1,1 +1,1 @@
-text.txt file contents
+Replace text contents for text.txt
